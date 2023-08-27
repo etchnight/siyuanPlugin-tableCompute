@@ -1,18 +1,18 @@
 {
-  "name": "plugin-sample-vite-svelte",
+  "name": "siyuan-plugin-table-compute",
   "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.1.12",
+  "url": "https://github.com/etchnight/siyuanPlugin-tableCompute",
+  "version": "0.1.0",
   "minAppVersion": "2.9.0",
   "backends": ["all"],
   "frontends": ["all"],
   "displayName": {
     "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "zh_CN": "表格计算"
   },
   "description": {
     "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "zh_CN": "为表格增加简单计算功能"
   },
   "readme": {
     "en_US": "README.md",
@@ -20,7 +20,6 @@
   },
   "funding": {
     "custom": [
-      "https://afdian.net/a/frostime"
     ]
   }
 }
